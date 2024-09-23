@@ -15,7 +15,7 @@ g)The borrower's total debt
 h)loan status - '0' indicates a healthy loan applicant and '1' indiactes an applicant that defaulted and is considered a high risk
 
 
-After removing the loan status column fron the data set the data was split into training and testing data sets. The training data was then fitted to a logistic regression model and then the model was used to predict the test data. A confusion matrix and a classification report was generated to evaluate the model performance.
+After removing the loan status column from the data set, the data was split into training and testing data. The default percentages were used to spilt the data which was 75% for training and 25% for testing.  The training data was then fitted to a logistic regression model and then the model was used to predict the test data. A confusion matrix and a classification report was generated to evaluate the model performance.
 
 
 1)The accuracy - The accuuracy shows how often a classification machine learning model is correct overall.

@@ -6,12 +6,19 @@ The purpose of this project was to analyse a histroical data set of loan applica
 The data set consisted of 77, 536 applicants and the data file consisted of the following fields:
 
 a)Size of the loan
+
 b)Interest rate on the loan
+
 c)Borrower's income
+
 d)Debt_to_Income ratio
+
 e)The number of of accounts that the borrower uses regularly
+
 f)Derogatory marks on the borrower's credit report
+
 g)The borrower's total debt
+
 h)loan status - '0' indicates a healthy loan applicant and '1' indiactes an applicant that defaulted and is considered a high risk
 
 

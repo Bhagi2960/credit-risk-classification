@@ -2,6 +2,7 @@
 Credit Risk Analysis Report
 
 The purpose of this project was to analyse a histroical data set of loan applicants provided by a Bank to build a predictive model that would assess the borrowers' credit worthiness for loan applications in the future. The Bank could then use this predictive model in the future to grant loans to healthy loan applicants and minimize granting to those who would default on the loans.
+
 The data set consisted of 77, 536 applicants and the data file consisted of the following fields:
 
 a)Size of the loan
